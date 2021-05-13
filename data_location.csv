@@ -1,0 +1,14 @@
+location,sentiment,ones
+Ahmedabad,Neutral,2
+Anonymous,Negative,2
+Anonymous,Neutral,26
+Anonymous,Positive,13
+Bangalore,Neutral,1
+Bangalore,Positive,2
+Mumbai,Negative,3
+Mumbai,Neutral,60
+Mumbai,Positive,57
+NCR,Neutral,6
+NCR,Positive,1
+New York,Neutral,1
+Pune,Neutral,4

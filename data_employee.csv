@@ -1,0 +1,16 @@
+employee_title,sentiment,ones
+Anonymous,Negative,2
+Anonymous,Neutral,16
+Anonymous,Positive,8
+Manager,Neutral,7
+Manager,Positive,13
+QA Role,Neutral,12
+QA Role,Positive,3
+Senior Software Engineer,Negative,1
+Senior Software Engineer,Neutral,29
+Senior Software Engineer,Positive,20
+Software Engineer,Negative,2
+Software Engineer,Neutral,21
+Software Engineer,Positive,15
+Solution Architect,Neutral,13
+Solution Architect,Positive,14
